@@ -1,6 +1,6 @@
 # Simple Java Calculator 
 
-- [ ] IDE
+- [ ] IDE:
 IntelliJ IDEA
 
 
